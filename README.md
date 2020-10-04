@@ -20,3 +20,6 @@ category特征过embedding layer后再和numeric特征concat一起
 
 3. 使用tf estimator 来进行训练
 
+
+
+
