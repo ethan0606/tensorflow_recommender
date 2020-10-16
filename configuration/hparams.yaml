@@ -1,6 +1,0 @@
-train_path: /Users/yifanguo/Desktop/dataset/taobao_ad/tfrecord/train
-test_path: /Users/yifanguo/Desktop/dataset/taobao_ad/tfrecord/test
-batch_size: 10
-num_parallel_calls: 2
-num_epochs: 1
-
